@@ -124,7 +124,7 @@ Power Supply	5V DC adapter or 12V barrel jack
 
 📃 License
 
-© 2025 All Rights Reserved | Harsh Bhayekar
+© 2025 All Rights Reserved | Vaibhav Jawadwar
 
 
 code for aurdino : 

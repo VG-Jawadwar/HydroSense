@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCt4LmOEyuxwNhuSqJse7ZD3hMhI5_ySmQ',
+    apiKey: 'Your Firebase Project API Key',
     appId: '1:181785269437:web:b5e823b3278e230ebdd3d4',
     messagingSenderId: '181785269437',
     projectId: 'hydrosenseproj',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA0GLKGHG7Q0dui5Pmdnug4ODB1XP1AHrA',
+    apiKey: 'Your Firebase Project API Key',
     appId: '1:181785269437:android:5edea9032ca41c2ebdd3d4',
     messagingSenderId: '181785269437',
     projectId: 'hydrosenseproj',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCgqufIKDEiAepFiw5QSzxQ85oI5pI4ll0',
+    apiKey: 'Your Firebase Project API Key',
     appId: '1:181785269437:ios:49cbb0d91e293b2fbdd3d4',
     messagingSenderId: '181785269437',
     projectId: 'hydrosenseproj',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCgqufIKDEiAepFiw5QSzxQ85oI5pI4ll0',
+    apiKey: 'Your Firebase Project API Key',
     appId: '1:181785269437:ios:49cbb0d91e293b2fbdd3d4',
     messagingSenderId: '181785269437',
     projectId: 'hydrosenseproj',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCt4LmOEyuxwNhuSqJse7ZD3hMhI5_ySmQ',
+    apiKey: 'Your Firebase Project API Key',
     appId: '1:181785269437:web:1126f5ea47e258f1bdd3d4',
     messagingSenderId: '181785269437',
     projectId: 'hydrosenseproj',
